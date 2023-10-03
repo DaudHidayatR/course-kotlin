@@ -1,3 +1,6 @@
 [submodule "belajar-kotlin-dasar"]
 	path = belajar-kotlin-dasar
 	url = https://github.com/DaudHidayatR/belajar-kotlin-dasar.git
+[submodule "belajar-kotlin-OOP"]
+	path = belajar-kotlin-OOP
+	url = https://github.com/DaudHidayatR/belajar-kotlin-OOP.git
